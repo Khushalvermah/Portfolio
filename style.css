@@ -1,0 +1,33 @@
+html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* standard styles */
+
+/* standard styles */
+
+
+/* Navbar */
+.navigation {
+    background-color: red;
+    min-height: 90px;
+    height: 15vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+    
+
+}
+
